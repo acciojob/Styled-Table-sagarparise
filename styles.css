@@ -1,1 +1,14 @@
 /* your code */
+table{
+	width:100%;
+	text-align: left;	
+}
+tr,th,td{
+	padding: 5px;
+}
+th{
+	border:none;
+	color:white;
+	font-size:10px;
+}
+
